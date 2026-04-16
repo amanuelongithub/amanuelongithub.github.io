@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.HabeshaDressStore.app",
+            "sha256_cert_fingerprints": [
+                "9C:2A:43:8C:9C:FA:63:05:C8:35:EB:47:9B:5E:DC:56:28:F5:42:47:66:32:D0:8D:21:90:7D:42:BC:74:A7:24"
+            ]
+        }
+    }
+]
